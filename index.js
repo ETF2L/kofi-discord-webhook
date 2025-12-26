@@ -44,7 +44,7 @@ function sendEmbed(data, date, isPublic, type) {
         const embed = new EmbedBuilder()
             .setAuthor({
                 name: "New Ko-Fi donation!",
-                iconURL: "https://poland.tf/wp-content/uploads/2024/01/favicon.png",
+                iconURL: "https://etf2l.org/wp-content/uploads/2025/12/2018_etf2l_short_withbackground.png",
             })
             .addFields(
                 {
@@ -58,7 +58,7 @@ function sendEmbed(data, date, isPublic, type) {
                     inline: false
                 },
             )
-            .setImage("https://c.tenor.com/xBTPckHid1oAAAAC/tenor.gif")
+            .setImage("https://media1.tenor.com/m/peVIZix85yYAAAAC/money.gif")
             .setThumbnail("https://etf2l.org/wp-content/uploads/2025/12/2018_etf2l_short_withbackground.png")
             .setColor("#dd3a3a")
             .setFooter({
@@ -86,7 +86,7 @@ function sendEmbed(data, date, isPublic, type) {
                     inline: false
                 },
             )
-            .setImage("https://c.tenor.com/xBTPckHid1oAAAAC/tenor.gif")
+            .setImage("https://media1.tenor.com/m/peVIZix85yYAAAAC/money.gif")
             .setThumbnail("https://etf2l.org/wp-content/uploads/2025/12/2018_etf2l_short_withbackground.png")
             .setColor("#dd3a3a")
             .setFooter({
