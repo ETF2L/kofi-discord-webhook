@@ -59,11 +59,11 @@ function sendEmbed(data, date, isPublic, type) {
                 },
             )
             .setImage("https://c.tenor.com/xBTPckHid1oAAAAC/tenor.gif")
-            .setThumbnail("https://poland.tf/wp-content/uploads/2024/01/favicon.png")
+            .setThumbnail("https://etf2l.org/wp-content/uploads/2025/12/2018_etf2l_short_withbackground.png")
             .setColor("#dd3a3a")
             .setFooter({
                 text: "ETF2L donation bot",
-                iconURL: "https://poland.tf/wp-content/uploads/2024/01/favicon.png",
+                iconURL: "https://etf2l.org/wp-content/uploads/2025/12/2018_etf2l_short_withbackground.png",
             })
         timestamp: new Date().toISOString();
 
@@ -72,7 +72,7 @@ function sendEmbed(data, date, isPublic, type) {
         const embed = new EmbedBuilder()
             .setAuthor({
                 name: "New Ko-Fi donation!",
-                iconURL: "https://poland.tf/wp-content/uploads/2024/01/favicon.png",
+                iconURL: "https://etf2l.org/wp-content/uploads/2025/12/2018_etf2l_short_withbackground.png",
             })
             .addFields(
                 {
@@ -87,11 +87,11 @@ function sendEmbed(data, date, isPublic, type) {
                 },
             )
             .setImage("https://c.tenor.com/xBTPckHid1oAAAAC/tenor.gif")
-            .setThumbnail("https://poland.tf/wp-content/uploads/2024/01/favicon.png")
+            .setThumbnail("https://etf2l.org/wp-content/uploads/2025/12/2018_etf2l_short_withbackground.png")
             .setColor("#dd3a3a")
             .setFooter({
                 text: "ETF2L donation bot",
-                iconURL: "https://poland.tf/wp-content/uploads/2024/01/favicon.png",
+                iconURL: "https://etf2l.org/wp-content/uploads/2025/12/2018_etf2l_short_withbackground.png",
             })
         timestamp: new Date().toISOString();
 
