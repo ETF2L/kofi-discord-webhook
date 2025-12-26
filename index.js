@@ -58,7 +58,7 @@ function sendEmbed(data, date, isPublic, type) {
                     inline: false
                 },
             )
-            .setImage("https://media1.tenor.com/m/peVIZix85yYAAAAC/money.gif")
+            .setImage("https://c.tenor.com/peVIZix85yYAAAAC/tenor.gif")
             .setThumbnail("https://etf2l.org/wp-content/uploads/2025/12/2018_etf2l_short_withbackground.png")
             .setColor("#dd3a3a")
             .setFooter({
@@ -86,7 +86,7 @@ function sendEmbed(data, date, isPublic, type) {
                     inline: false
                 },
             )
-            .setImage("https://media1.tenor.com/m/peVIZix85yYAAAAC/money.gif")
+            .setImage("https://c.tenor.com/peVIZix85yYAAAAC/tenor.gif")
             .setThumbnail("https://etf2l.org/wp-content/uploads/2025/12/2018_etf2l_short_withbackground.png")
             .setColor("#dd3a3a")
             .setFooter({
